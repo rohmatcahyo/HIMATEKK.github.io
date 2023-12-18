@@ -1,5 +1,5 @@
 <h1 align="center">Selamat datang</h1>
-<h3 align="center">Perkenalkan Saya nugra21</h3>
+<h3 align="center">Perkenalkan Saya Rohmat</h3>
 
 "Web ini merupakan salah satu tugas mata kuliah Pemrograman Web Client, program studi Teknik Komputer Universitas Teknologi Digital Indonesia (UTDI), Yogyakarta"
 
@@ -60,7 +60,7 @@
 </html>
 ```
 
-Menurut saya kode html lumayan mudah di hafal dan di terapkan dalam sebuah program kosong tanpa melihat contoh sebelum menerapkan kode tersebut
+Menurut saya kode html lumayan mudah dihafal dan diterapkan dalam sebuah program kosong tanpa melihat contoh sebelum menerapkan kode tersebut
 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
 </a>
@@ -84,7 +84,7 @@ body {
 
 ```
 
-Untuk bagia CSS saya masih agak triki karena saya juga harus menyesuwaikan margin ,display , flex . border ,dan layout pada sebuah web unu yang membuat saya masih kesusahan dalam penerapan sebuah layout web
+Untuk bagia CSS saya masih agak triki karena saya juga harus menyesuwaikan margin, display, flex, border, dan layout pada sebuah web unu yang membuat saya masih kesusahan dalam penerapan sebuah layout web
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
 </a>
